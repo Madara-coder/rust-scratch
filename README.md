@@ -1,0 +1,2 @@
+# rust-scratch
+Practising rust
